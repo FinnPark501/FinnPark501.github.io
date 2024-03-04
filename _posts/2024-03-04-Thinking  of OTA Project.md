@@ -21,15 +21,15 @@ After consulting with ChatGPT-4, I found a suitable Linux version, AGL.
 
 AGL is
 
-[image1]
+![AGL Web Site](/assets/images/2024-03/1_AGLWebSite.png)
 
 I was able to find supported hardware. I chose a suitable Raspberry Pi and purchased it.
 
 I checked to see if the latest Raspberry Pi I had purchased a long time ago was usable, but it had already been over 7 years since I purchased it and I couldn't use it... Time...
 
-[image2]
+![Buy Raspberry Pi 4](/assets/images/2024-03/2_BuyRaspberryPi4.png)
 
 While waiting for delivery, I will read documents and draw the architecture of the project.
 
-[image1]:/_assets/_images/2024-03/1_AGLWebSite.png
-[image2]:/_assets/_images/2024-03/2_BuyRaspberryPi4.png
+![AGL Web Site](/assets/images/2024-03/1_AGLWebSite.png)
+![Buy Raspberry Pi 4](/assets/images/2024-03/2_BuyRaspberryPi4.png)
