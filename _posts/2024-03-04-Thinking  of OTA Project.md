@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "OTA Project 1 - the Beginning"
 date:   2024-03-04 23:22:00 +0900
-categories: jekyll update
+categories: Project
 ---
 
 Nearly four years have passed since I closed my first Git page blog. For some reason, I felt a strong urge to advance my career. That's why I'm posting this.
