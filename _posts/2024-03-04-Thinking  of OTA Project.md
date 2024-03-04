@@ -30,6 +30,3 @@ I checked to see if the latest Raspberry Pi I had purchased a long time ago was 
 ![Buy Raspberry Pi 4](/assets/images/2024-03/2_BuyRaspberryPi4.png)
 
 While waiting for delivery, I will read documents and draw the architecture of the project.
-
-![AGL Web Site](/assets/images/2024-03/1_AGLWebSite.png)
-![Buy Raspberry Pi 4](/assets/images/2024-03/2_BuyRaspberryPi4.png)
