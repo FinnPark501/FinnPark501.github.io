@@ -4,7 +4,8 @@ title:  "OTA Project 1 - the Beginning"
 date:   2024-03-04 23:22:00 +0900
 categories: Project
 ---
-
+OTA Project 1 - the Beginning
+===
 Nearly four years have passed since I closed my first Git page blog. For some reason, I felt a strong urge to advance my career. That's why I'm posting this.
 
 I'm basically an embedded C SW Developer. Therefore, instead of focusing on glamorous areas like web and app development, it's more sensible to concentrate on a domain closer to embedded software.
@@ -30,3 +31,6 @@ I checked to see if the latest Raspberry Pi I had purchased a long time ago was 
 ![Buy Raspberry Pi 4](/assets/images/2024-03/2_BuyRaspberryPi4.png)
 
 While waiting for delivery, I will read documents and draw the architecture of the project.
+
+Korean
+---
