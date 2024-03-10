@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "우리 회사의 오랜 문제"
+title:  "Logic and Parameter Separating"
 date:   2024-03-07 23:22:00 +0900
 categories: Work
 ---
