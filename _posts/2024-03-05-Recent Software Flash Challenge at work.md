@@ -71,7 +71,7 @@ my_program.o: my_program.c
 
 SepaPartial flash 라는 기능인데 나의 경우 타겟 보드 메이커인 Freesacle의 flash controller 에서는 이렇게 작성이 되어있다. 
 
-![PARTIALWRITING](/assets/images/2024-03/3_PartialWriting)
+![PARTIALWRITING](/assets/images/2024-03/3_PartialWriting.png)
 
 출처 : https://www.nxp.com/docs/en/user-guide/56800EFPUG.pdf
 
