@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Peace Park"
 description              : "Learning Everything I'm Interested In"
-url                      : "https://peaceparkblog.com "
+url                      : "https://finnpark501.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "FinnPark501/FinnPark501.github.io"
 teaser                   : # "\assets\images\PictureOfme.jpg" 
@@ -278,7 +278,7 @@ defaults:
       comments: true
       share: true
       related: true
-      
+
   # _pages
   - scope:
       path: ""
