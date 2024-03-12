@@ -1,3 +1,7 @@
+---
+title : "Recent Software Flash Challenge at work"
+
+---
 파라미터, 오랜 문제
 ===
 현 직장에서 SW 개발에 가장 비효율을 낳고 있는 것은 무엇일까. 나는 누가 물어보면 바로 '파라미터 관리'라고 얘기할 것이다.
