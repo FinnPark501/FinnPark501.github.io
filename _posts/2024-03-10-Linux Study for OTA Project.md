@@ -1,9 +1,3 @@
----
-layout: post
-title:  "리눅스 공부의 필요성을 느끼다."
-date:   2024-03-10 23:00:00 +0900
-categories: Study
----
 리눅스 공부?
 ===
 
