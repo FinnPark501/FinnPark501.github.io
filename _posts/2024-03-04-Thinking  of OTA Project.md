@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "OTA Project 1 - the Beginning"
+title:  "OTA 프로젝트 1 - the Beginning"
 date:   2024-03-04 23:22:00 +0900
 categories: Project
 ---
@@ -34,3 +34,4 @@ While waiting for delivery, I will read documents and draw the architecture of t
 
 Korean
 ---
+깃 페이지를 폐쇄한지 
